@@ -5,7 +5,7 @@
 💡 I combine a **people-focused mindset** with technical skills to solve real-world problems and make data understandable and actionable. I’m also passionate about **telling stories with data**, transforming complex datasets into insights that inform decisions and drive impact.
 
 **💻 Skills & Tools:** 
-- Python (pandas, numpy), SQL; Tableau, Excel, Google Sheets; Scheduling, tracking, documentation; Collaborative, proactive, solution-focused
+- **Python** (**Python** (pandas, NumPy, matplotlib, seaborn), **SQL**; **Tableau**, **Excel**, **Google Sheets**; Scheduling, tracking, documentation; Collaborative, proactive, solution-focused
 
 **📊 Projects Showcase:**  
 - [Global Fashion Retail Sales Analysis](https://github.com/TheresaGomez-data/global-fashion-retail-analysis) – Analyzed international retail sales data to uncover trends, evaluate product performance, and generate actionable insights using **SQL, Python, and Tableau**.  
