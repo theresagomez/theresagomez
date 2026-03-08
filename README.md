@@ -14,4 +14,4 @@
 **🛠 Currently Working On:**  
 - [Enrollment Trends in U.S. Public Schools (CCD)](https://github.com/TheresaGomez-data/enrollment-trends-ccd) – Analyzing enrollment trends, student–teacher ratios, and school demographics. Currently cleaning and preparing data for dashboards and analysis using **Python, SQL, Tableau, and Excel**.
 
-**📫 Where to Find Me:** Theresa.gomez.trg@gmail.com | [LinkedIn](https://www.linkedin.com/in/theresagomez-ma-290331379)
+**📫 Where to Find Me:** Theresa.gomez.trg@gmail.com | [LinkedIn](https://www.linkedin.com/in/theresa-gomez-ma-290331379/)
