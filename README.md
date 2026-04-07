@@ -12,6 +12,7 @@
 - [National Parks Biodiversity Analysis](https://github.com/TheresaGomez-data/national-parks-biodiversity-analysis) – Explored species and conservation data across U.S. National Parks using **Python and Tableau** to identify patterns in biodiversity and support conservation insights.
 
 **🛠 Currently Working On:**  
-- [Enrollment Trends in U.S. Public Schools (CCD)](https://github.com/TheresaGomez-data/enrollment-trends-ccd) – Analyzing enrollment trends, student–teacher ratios, and school demographics. Currently cleaning and preparing data for dashboards and analysis using **Python, SQL, Tableau, and Excel**.
+- [CRDC Enrollment & AP Program Analysis]([https://github.com/TheresaGomez-data/enrollment-trends-ccd](https://github.com/theresagomez/CRDC-Enrollment-AP-Program-Analysis) – Analyzing U.S. public school enrollment trends and Advanced Placement (AP) program participation using CRDC school-level data. Currently cleaning and preparing multiple datasets—including Enrollment, School Characteristics, and AP Program Participation—for dashboards and analysis using **Python, SQL, Tableau, and Excel**.
+
 
 **📫 Where to Find Me:** Theresa.gomez.trg@gmail.com | [LinkedIn](https://www.linkedin.com/in/theresa-gomez-ma-290331379/)
